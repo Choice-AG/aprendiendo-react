@@ -9,17 +9,17 @@ const users = [
   },
   {
     userName: 'AlvaroNear',
-    name: 'Alvaro "Near"',
+    name: 'Álvaro "Near"',
     isFollowing: false
   },
   {
-    userName: 'midudev',
-    name: 'Miguel Ángel Duran',
+    userName: 'cynox336',
+    name: 'Cynox',
     isFollowing: true
   },
   {
-    userName: 'Cynox336',
-    name: 'Cynox',
+    userName: 'midudev',
+    name: 'Miguel Ángel Durán',
     isFollowing: false
   }
 ]
